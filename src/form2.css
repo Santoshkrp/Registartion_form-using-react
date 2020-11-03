@@ -1,0 +1,115 @@
+.container h1 {
+    text-align: center;
+}
+
+.container {
+
+    border: 2px solid white;
+    
+    box-shadow: 1px 2px 2px 1px black;
+    
+    margin: auto;
+    margin-top: 200px ;
+    width: 37%;
+    border-radius: 30px;
+    cursor: pointer;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.form-group input {
+    margin: 10px auto;
+    text-align: center;
+    display: block;
+    width: 430px;
+    padding: 6px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+    
+
+}
+.green{
+color: green;
+font-size: 18px;
+}
+
+.cor1 {
+    margin: 3px 3px;
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+.btn1 {
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 3px 3px;
+    margin: 3px 3px;
+    text-align: center;
+    background-color: black;
+    width: 40%;
+    cursor: pointer;
+}
+
+.cor1 {
+            margin: 3px 3px;
+            padding: 3px 3px;
+            text-decoration: none;
+            color: white;
+        }
+
+        .cor1 :hover,
+        .btn1:hover {
+
+            filter: invert(100%);
+
+
+            /* background: #5825e4; */
+
+        }
+
+        .btn1 {
+            border-radius: 8px;
+            text-decoration: none;
+            padding: 3px 3px;
+            margin: 3px 3px;
+            text-align: center;
+            background-color: black;
+            width: 40%;
+        }
+
+        body {
+            margin: 0px;
+            color: white;
+            padding: 0px opx;
+            background: #5825e4;
+           
+
+        }
+
+
+        
+
+        .blue:hover{
+            color:blue;
+        }
+        .blue{
+            /* color: red; */
+            text-decoration: underline;
+            padding: 20px;
+
+            margin: 10px;
+            
+        }
+        .left{
+            text-align: left;
+            padding-left: 60px;
+        }
+
+       
+
+       
